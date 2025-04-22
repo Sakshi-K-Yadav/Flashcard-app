@@ -1,0 +1,51 @@
+[
+    {
+        "easy": 35,
+        "medium": 2,
+        "hard": 1
+    },
+    {
+        "easy": 4,
+        "medium": 2,
+        "hard": 1
+    },
+    {
+        "easy": 10,
+        "medium": 0,
+        "hard": 0
+    },
+    {
+        "easy": 6,
+        "medium": 2,
+        "hard": 1
+    },
+    {
+        "easy": 1,
+        "medium": 2,
+        "hard": 1
+    },
+    {
+        "session_number": 1,
+        "data": {
+            "easy": 1,
+            "medium": 1,
+            "hard": 1
+        }
+    },
+    {
+        "session_number": 2,
+        "data": {
+            "easy": 1,
+            "medium": 1,
+            "hard": 1
+        }
+    },
+    {
+        "session_number": 3,
+        "data": {
+            "easy": 0,
+            "medium": 0,
+            "hard": 0
+        }
+    }
+]
